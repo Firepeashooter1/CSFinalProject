@@ -1,5 +1,7 @@
 # CSFinalProject
+Note: for a better understading look at this through it in the code tab for a more better reading experinece
 
+Algothim:
  include iostream, stdlib.h, fstream, time.h vector
  void randLine needing a ifstream& variable to get correct txt file (file)
  > variable string (lineOne)
@@ -21,3 +23,76 @@
  > write madlib and use actNode and nameNode for the blanks to automatically fill blanks
  > return 0
 
+Examples for API
+
+> NameAPI Example List:
+Alex
+Amit
+Andrew
+Anthony
+Benjamin
+Billy
+Bradley
+Brenden
+Brian
+Carlos
+Charles
+Christopher
+Corey
+Daniel
+Dave
+David
+Donald
+Edward
+Eric
+Gary
+George
+Grant
+Gregory
+Harold
+Hugo
+Jack
+James
+Jan
+Jason
+Jay
+Jerry
+John
+Joseph
+Justin
+Keith
+Kenneth
+Kenny
+Kevin
+Kyle
+Larry
+Leslie
+Luke
+Mark
+Michael
+Paul
+Peter
+Raymond
+Richard
+Robert
+Robin
+Ronald
+Russell
+Steven
+Thomas
+Ted
+Tim
+Walter
+William
+
+> ActionAPI Example List:
+fight
+called
+see
+befriended
+jump
+flip
+questioned
+guide
+hug
+slap
